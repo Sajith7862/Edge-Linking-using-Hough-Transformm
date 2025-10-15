@@ -1,4 +1,6 @@
 # Edge-Linking-using-Hough-Transformm
+## Name : Mohamed Hameem Sajith J
+## reg no: 212223240090
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
